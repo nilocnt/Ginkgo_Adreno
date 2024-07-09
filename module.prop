@@ -1,0 +1,6 @@
+id=Ginkgo_Adreno
+name=Ginkgo_Adreno
+version=v1
+versionCode=1
+author=nilocnt
+description=Update adreno (TM) 610 V@502.41 with open-source vulkan driver for Ginkgo.
