@@ -49,7 +49,9 @@ Adreno™ 610 V@0502.41 For Ginkgo.
 
 # Version 2.0 (Test internal)
 
-* Unreleased version
+* Unreleased version.
+* Added ported library GPU Booster (20230521)! 'THX vamper865'.
+* Added ported library Render Engine (20230521)! 'THX yash5643'.
   
 ========================================================================================
 
