@@ -67,7 +67,7 @@ Adreno™ 610 V@0502.41 For Ginkgo.
   
 ========================================================================================
   
-# Créditos
+# Credits
 
 * topjohnwu / Magisk - Magisk Module Template.
 * Ilhan-athn7 - For the build script.
