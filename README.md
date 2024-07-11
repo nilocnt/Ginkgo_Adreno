@@ -31,7 +31,7 @@ Adreno™ 610 V@0502.41 For Ginkgo.
 
 # Version 2.5 (Test internal)
 
-* Unreleased version 'THX vamper865'.
+* Unreleased version 'THX vamper865 & yash5643'.
 
 * Enhanced compatibility with A11 ROMs, although it may still not function on certain MIUI ROMs.
 
@@ -72,6 +72,7 @@ Adreno™ 610 V@0502.41 For Ginkgo.
 * topjohnwu / Magisk - Magisk Module Template.
 * Ilhan-athn7 - For the build script.
 * vamper865 - Qualcomm ADRENO™ 610 Boosted GPU Drivers v2.0 to increse performance in spes.
+* yash5643 - Render Tweaks for spes.
 * @nilocnt - Maker of this module.
   
 ========================================================================================
